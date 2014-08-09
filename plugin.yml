@@ -1,0 +1,8 @@
+name: ForumRewards
+main: net.Snicktrix.ForumRewards.ForumRewards
+author: Snicktrix
+version: 1.0
+description: Reward players from bumping the forum posts
+commands:
+  fr:
+    description: Forum Rewards core command
